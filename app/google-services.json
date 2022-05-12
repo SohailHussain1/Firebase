@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30203517444",
+    "firebase_url": "https://blood-79b64-default-rtdb.firebaseio.com",
+    "project_id": "blood-79b64",
+    "storage_bucket": "blood-79b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30203517444:android:471517674bb5229355b351",
+        "android_client_info": {
+          "package_name": "com.example.blooddoner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30203517444-ls1ag8jab60drdvrnp16468jahf33ohn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOphrMwV9gwEUY4s4Fqaj-LRTZf1P0bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30203517444-ls1ag8jab60drdvrnp16468jahf33ohn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
